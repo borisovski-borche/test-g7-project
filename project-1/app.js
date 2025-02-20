@@ -9,3 +9,7 @@ printFullName("John", "Doe");
 printFullName("John", "Doe");
 printFullName("John", "Doe");
 printFullName("John", "Doe");
+
+const pi = Math.PI;
+
+console.log(pi, " is an amazing number");
